@@ -6,7 +6,30 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/Levels/MainMenu.umap"
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/Levels/MainMenu.umap",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/UI/MainMenuGameMode.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/UI/MainMenuWidget.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/UI/PauseMenuWidget.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/Levels/InstructionMenu.umap",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/Levels/StartMenu.umap",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HZ/Q5NZGGI7Y7K1C3DISQQ3KP.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/2/LV/0G1ONX3162NZYO1CSOARGB.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/Material/mBlue.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/Material/mGreen.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/Material/mOrange.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/Material/mPurple.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/Material/mRed.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/Material/mYellow.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZF/R35WVH5AYYQUFZBYD594KC.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/TH/6BKH79X04QFGAJ98C9NEYR.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/BluePrints/TestAiZombie.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/UI/StartMenuWidget.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/UI/StartMenuGameMode.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y3/WLL235WD3W7WIAKHVI3IX1.uasset"
 			]
 		}
 	]
