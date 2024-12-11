@@ -1,2 +1,3 @@
-2024/12/11-10:38:01.383 7dac Creating DB C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/12/11-10:38:01.392 7dac Reusing MANIFEST C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/12/11-13:54:01.772 86e8 Reusing MANIFEST C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/12/11-13:54:01.775 86e8 Recovering log #3
+2024/12/11-13:54:01.777 86e8 Reusing old log C:/Users/rscroggin/Documents/ScriptingForInteractiveTechnologies/FinalProject/ScrogginsJr_FinalProject/FinalProject/Saved/webcache_4430\Local Storage\leveldb/000003.log 
